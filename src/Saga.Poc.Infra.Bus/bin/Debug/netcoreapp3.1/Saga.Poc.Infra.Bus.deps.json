@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Saga.Poc.Infra.Bus/1.0.0": {
+        "dependencies": {
+          "Saga.Poc.Core": "1.0.0"
+        },
+        "runtime": {
+          "Saga.Poc.Infra.Bus.dll": {}
+        }
+      },
+      "Saga.Poc.Core/1.0.0": {
+        "runtime": {
+          "Saga.Poc.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Saga.Poc.Infra.Bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Saga.Poc.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Rebus" Version="6.4.1" />
+    <PackageReference Include="Rebus.RabbitMQ" Version="7.2.0" />
+    <PackageReference Include="Rebus.ServiceProvider" Version="5.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Saga.Poc.Infra.Bus\Saga.Poc.Infra.Bus.csproj" />
+    <ProjectReference Include="..\Saga.Poc.Core\Saga.Poc.Core.csproj" />
+    <ProjectReference Include="..\Saga.Poc.Infra.Data\Saga.Poc.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Repo/Saga.Poc.Saga.Zoo.Repo.csproj": {}
+  },
+  "projects": {
+    "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/Saga.Poc.Saga.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/Saga.Poc.Saga.Core.csproj",
+        "projectName": "Saga.Poc.Saga.Core",
+        "projectPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/Saga.Poc.Saga.Core.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/Saga.Poc.Saga.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/Saga.Poc.Saga.Infra.Data.csproj",
+        "projectName": "Saga.Poc.Saga.Infra.Data",
+        "projectPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/Saga.Poc.Saga.Infra.Data.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/Saga.Poc.Saga.Core.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/Saga.Poc.Saga.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/Saga.Poc.Saga.Zoo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/Saga.Poc.Saga.Zoo.Domain.csproj",
+        "projectName": "Saga.Poc.Saga.Zoo.Domain",
+        "projectPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/Saga.Poc.Saga.Zoo.Domain.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/Saga.Poc.Saga.Core.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/Saga.Poc.Saga.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Repo/Saga.Poc.Saga.Zoo.Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Repo/Saga.Poc.Saga.Zoo.Repo.csproj",
+        "projectName": "Saga.Poc.Saga.Zoo.Repo",
+        "projectPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Repo/Saga.Poc.Saga.Zoo.Repo.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Repo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/Saga.Poc.Saga.Core.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Core/Saga.Poc.Saga.Core.csproj"
+              },
+              "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/Saga.Poc.Saga.Infra.Data.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/Saga.Poc.Saga.Infra.Data.csproj"
+              },
+              "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/Saga.Poc.Saga.Zoo.Domain.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/Saga.Poc.Saga.Zoo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

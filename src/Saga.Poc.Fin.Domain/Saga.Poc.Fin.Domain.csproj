@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Saga.Poc.Core\Saga.Poc.Core.csproj" />
+    <ProjectReference Include="..\Saga.Poc.Infra.Data\Saga.Poc.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.deps.json
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Core.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Core.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.csprojAssemblyReference.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.csproj.CoreCompileInputs.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.AssemblyInfoInputs.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.AssemblyInfo.cs
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.csproj.CopyComplete
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Infra.Data/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.pdb

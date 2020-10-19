@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FluentValidation/9.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
+      "Saga.Poc.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Saga.Poc.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Saga.Poc.Core.dll": {}
+        }
+      },
+      "Saga.Poc.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Saga.Poc.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Saga.Poc.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Saga.Poc.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/9.2.2": {
+      "sha512": "Y1TQrSa82i/WWPpXriEkL7uyUyECw3Uvtq66dZ8VC3pwFa9VqnZmeZaJJpz8deKhJQNDgqwU3BSptKTnyjqzuA==",
+      "type": "package",
+      "path": "fluentvalidation/9.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.9.2.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net461/FluentValidation.dll",
+        "lib/net461/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    },
+    "Saga.Poc.Core/1.0.0": {
+      "type": "project",
+      "path": "../Saga.Poc.Core/Saga.Poc.Core.csproj",
+      "msbuildProject": "../Saga.Poc.Core/Saga.Poc.Core.csproj"
+    },
+    "Saga.Poc.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj",
+      "msbuildProject": "../Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "FluentValidation >= 9.2.2",
+      "Saga.Poc.Core >= 1.0.0",
+      "Saga.Poc.Infra.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/gontijo/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/Saga.Poc.Fin.Domain.csproj",
+      "projectName": "Saga.Poc.Fin.Domain",
+      "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/Saga.Poc.Fin.Domain.csproj",
+      "packagesPath": "/home/gontijo/.nuget/packages/",
+      "outputPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/gontijo/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj": {
+              "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj"
+            },
+            "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj": {
+              "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[9.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

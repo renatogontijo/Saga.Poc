@@ -1,0 +1,16 @@
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.csprojAssemblyReference.cache
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.csproj.CoreCompileInputs.cache
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.AssemblyInfoInputs.cache
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.AssemblyInfo.cs
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.deps.json
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.pdb
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/bin/Debug/netcoreapp3.1/Saga.Poc.Core.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Data.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.pdb
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/bin/Debug/netcoreapp3.1/Saga.Poc.Core.pdb
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Data.pdb
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.csproj.CopyComplete
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.Rebus.pdb

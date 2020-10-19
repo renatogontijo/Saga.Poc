@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Saga.Poc.Saga.Zoo.Api",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/Saga.Poc.Saga.Zoo.Api/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Api.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "AGROHUB_DEVELOPMENT_DB_TST": "Server=localhost,1433;Database=AGROHUB_TST;Trusted_Connection=False;User Id=sa;Password=Password1234;MultipleActiveResultSets=True;"
+            }
+        },
+        {
+            "name": "Saga.Poc.Saga.Fin.Api",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/src/Saga.Poc.Saga.Fin.Api/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Api.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "AGROHUB_DEVELOPMENT_DB_TST": "Server=localhost,1433;Database=AGROHUB_TST;Trusted_Connection=False;User Id=sa;Password=Password1234;MultipleActiveResultSets=True;"
+            }
+        }
+    ]
+}

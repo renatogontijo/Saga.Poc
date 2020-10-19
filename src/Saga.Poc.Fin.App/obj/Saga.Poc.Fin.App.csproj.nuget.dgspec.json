@@ -1,0 +1,447 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.App/Saga.Poc.Fin.App.csproj": {}
+  },
+  "projects": {
+    "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj",
+        "projectName": "Saga.Poc.Core",
+        "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.App/Saga.Poc.Fin.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.App/Saga.Poc.Fin.App.csproj",
+        "projectName": "Saga.Poc.Fin.App",
+        "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.App/Saga.Poc.Fin.App.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/Saga.Poc.Fin.Domain.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/Saga.Poc.Fin.Domain.csproj"
+              },
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Repo/Saga.Poc.Fin.Repo.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Repo/Saga.Poc.Fin.Repo.csproj"
+              },
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/Saga.Poc.Infra.Bus.Rebus.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/Saga.Poc.Infra.Bus.Rebus.csproj"
+              },
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/Saga.Poc.Infra.Bus.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/Saga.Poc.Infra.Bus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Rebus": {
+              "target": "Package",
+              "version": "[6.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/Saga.Poc.Fin.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/Saga.Poc.Fin.Domain.csproj",
+        "projectName": "Saga.Poc.Fin.Domain",
+        "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/Saga.Poc.Fin.Domain.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj"
+              },
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Repo/Saga.Poc.Fin.Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Repo/Saga.Poc.Fin.Repo.csproj",
+        "projectName": "Saga.Poc.Fin.Repo",
+        "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Repo/Saga.Poc.Fin.Repo.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Repo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj"
+              },
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/Saga.Poc.Fin.Domain.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/Saga.Poc.Fin.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/Saga.Poc.Infra.Bus.Rebus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/Saga.Poc.Infra.Bus.Rebus.csproj",
+        "projectName": "Saga.Poc.Infra.Bus.Rebus",
+        "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/Saga.Poc.Infra.Bus.Rebus.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus.Rebus/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj"
+              },
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/Saga.Poc.Infra.Bus.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/Saga.Poc.Infra.Bus.csproj"
+              },
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Rebus": {
+              "target": "Package",
+              "version": "[6.4.1, )"
+            },
+            "Rebus.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Rebus.ServiceProvider": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/Saga.Poc.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/Saga.Poc.Infra.Bus.csproj",
+        "projectName": "Saga.Poc.Infra.Bus",
+        "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/Saga.Poc.Infra.Bus.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj",
+        "projectName": "Saga.Poc.Infra.Data",
+        "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/Saga.Poc.Infra.Data.csproj",
+        "packagesPath": "/home/gontijo/.nuget/packages/",
+        "outputPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gontijo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj": {
+                "projectPath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Core/Saga.Poc.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

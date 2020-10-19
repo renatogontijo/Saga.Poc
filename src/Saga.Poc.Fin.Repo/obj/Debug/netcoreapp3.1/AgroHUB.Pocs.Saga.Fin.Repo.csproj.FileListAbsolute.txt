@@ -1,0 +1,16 @@
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.deps.json
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.csprojAssemblyReference.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.csproj.CoreCompileInputs.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.AssemblyInfoInputs.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.AssemblyInfo.cs
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Core.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Core.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Repo/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Repo.csproj.CopyComplete

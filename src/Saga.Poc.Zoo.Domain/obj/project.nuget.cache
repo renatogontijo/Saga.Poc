@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWZ04tvwKXMEOCm7mAuVqj1+ot0+yx8g1qZO5iw6FSCPvwzuryY1auBbGsxSnqJeKWJghLr0psYbOkXCo98Taw==",
+  "success": true,
+  "projectFilePath": "/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Zoo.Domain/Saga.Poc.Zoo.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/gontijo/.nuget/packages/fluentvalidation/9.2.2/fluentvalidation.9.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

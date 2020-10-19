@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Saga.Poc.Saga.Infra.Data/1.0.0": {
+        "dependencies": {
+          "Saga.Poc.Saga.Core": "1.0.0"
+        },
+        "runtime": {
+          "Saga.Poc.Saga.Infra.Data.dll": {}
+        }
+      },
+      "Saga.Poc.Saga.Core/1.0.0": {
+        "runtime": {
+          "Saga.Poc.Saga.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Saga.Poc.Saga.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Saga.Poc.Saga.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

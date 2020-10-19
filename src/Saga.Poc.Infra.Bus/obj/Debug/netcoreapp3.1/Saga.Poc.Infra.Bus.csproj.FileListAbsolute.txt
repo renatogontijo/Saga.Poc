@@ -1,0 +1,12 @@
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.deps.json
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.pdb
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/bin/Debug/netcoreapp3.1/Saga.Poc.Core.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/bin/Debug/netcoreapp3.1/Saga.Poc.Core.pdb
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.csprojAssemblyReference.cache
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.csproj.CoreCompileInputs.cache
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.AssemblyInfoInputs.cache
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.AssemblyInfo.cs
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.csproj.CopyComplete
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Infra.Bus/obj/Debug/netcoreapp3.1/Saga.Poc.Infra.Bus.pdb

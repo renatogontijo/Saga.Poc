@@ -1,0 +1,14 @@
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.deps.json
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.csprojAssemblyReference.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.csproj.CoreCompileInputs.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.AssemblyInfoInputs.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.AssemblyInfo.cs
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Core.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Core.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Fin.Domain.csproj.CopyComplete
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Infra.Data.pdb

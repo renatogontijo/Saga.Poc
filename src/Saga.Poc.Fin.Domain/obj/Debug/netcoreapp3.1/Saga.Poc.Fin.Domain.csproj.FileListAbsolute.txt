@@ -1,0 +1,14 @@
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.deps.json
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.pdb
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Core.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Data.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Core.pdb
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Infra.Data.pdb
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.csprojAssemblyReference.cache
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.csproj.CoreCompileInputs.cache
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.AssemblyInfoInputs.cache
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.AssemblyInfo.cs
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.csproj.CopyComplete
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.dll
+/home/gontijo/Documentos/Projects/Tests/Saga.Poc/src/Saga.Poc.Fin.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Fin.Domain.pdb

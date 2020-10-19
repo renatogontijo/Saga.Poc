@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Saga.Poc.Fin.Domain/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "9.2.2",
+          "Saga.Poc.Core": "1.0.0",
+          "Saga.Poc.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "Saga.Poc.Fin.Domain.dll": {}
+        }
+      },
+      "FluentValidation/9.2.2": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.2.2.0"
+          }
+        }
+      },
+      "Saga.Poc.Core/1.0.0": {
+        "runtime": {
+          "Saga.Poc.Core.dll": {}
+        }
+      },
+      "Saga.Poc.Infra.Data/1.0.0": {
+        "dependencies": {
+          "Saga.Poc.Core": "1.0.0"
+        },
+        "runtime": {
+          "Saga.Poc.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Saga.Poc.Fin.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/9.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y1TQrSa82i/WWPpXriEkL7uyUyECw3Uvtq66dZ8VC3pwFa9VqnZmeZaJJpz8deKhJQNDgqwU3BSptKTnyjqzuA==",
+      "path": "fluentvalidation/9.2.2",
+      "hashPath": "fluentvalidation.9.2.2.nupkg.sha512"
+    },
+    "Saga.Poc.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Saga.Poc.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

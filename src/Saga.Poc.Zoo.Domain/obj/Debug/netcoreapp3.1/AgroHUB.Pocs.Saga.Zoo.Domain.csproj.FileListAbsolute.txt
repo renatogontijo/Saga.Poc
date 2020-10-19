@@ -1,0 +1,12 @@
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.deps.json
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.csprojAssemblyReference.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.csproj.CoreCompileInputs.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.AssemblyInfoInputs.cache
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.AssemblyInfo.cs
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Core.dll
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/bin/Debug/netcoreapp3.1/Saga.Poc.Saga.Core.pdb
+/home/gontijo/Documentos/Projects/AgroHUB.Pocs/Saga.Poc.Saga/src/Saga.Poc.Saga.Zoo.Domain/obj/Debug/netcoreapp3.1/Saga.Poc.Saga.Zoo.Domain.csproj.CopyComplete

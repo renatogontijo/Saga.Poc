@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Saga.Poc.Zoo.Domain\Saga.Poc.Zoo.Domain.csproj" />
+    <ProjectReference Include="..\Saga.Poc.Zoo.Repo\Saga.Poc.Zoo.Repo.csproj" />
+    <ProjectReference Include="..\Saga.Poc.Infra.Bus\Saga.Poc.Infra.Bus.csproj" />
+    <ProjectReference Include="..\Saga.Poc.Infra.Data\Saga.Poc.Infra.Data.csproj" />
+    <ProjectReference Include="..\Saga.Poc.Infra.Bus.Rebus\Saga.Poc.Infra.Bus.Rebus.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.8" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>
